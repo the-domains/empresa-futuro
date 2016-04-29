@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Empresa Futuro]]></title>
         <description><![CDATA[Empresa Futuro]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/empresa-futuro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 02:01:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 02:17:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/empresa-futuro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce95eea3-b375-44ae-b16c-8b2c5280a3e9.png">]]></description>
+            <link>https://thegrid.ai/empresa-futuro/curso-de-diseno-de-paginas-web/index.html</link>
+            <guid isPermaLink="false">ac25e079-5f9f-449c-9116-32852d978d2b</guid>
+            <pubDate>Fri, 29 Apr 2016 02:17:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Curso de diseño gráfico]]></title>
             <description><![CDATA[<article><h1>Curso de diseño gráfico</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/468963c8-a02a-4fb9-a8e5-bb73b0315997.jpg"></article>]]></description>
-            <link>undefinedcurso-de-diseno-grafico/index.html</link>
+            <link>https://thegrid.ai/empresa-futuro/curso-de-diseno-grafico/index.html</link>
             <guid isPermaLink="false">c209e455-b581-4705-92d1-1cefd70e8b60</guid>
             <pubDate>Fri, 29 Apr 2016 02:01:15 GMT</pubDate>
         </item>
