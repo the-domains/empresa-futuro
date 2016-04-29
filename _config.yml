@@ -1,7 +1,7 @@
 name: Empresa Futuro
 favicon: null
-layout_spectrum: 0.36056066188029945
-typography_spectrum: 0.9351086681708694
+layout_spectrum: 0.93953
+typography_spectrum: 0.99834
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.030986373545601964
-  lightness: 0.7426892691291869
-  saturation: 0.4528632613364607
-  rhythmicContrast: 0.09599249414168298
+    - '#362f25'
+    - '#fdfdfd'
+    - '#22627e'
+    - '#b3b8bc'
+    - '#4ba0d7'
+  brandStrength: 0.375
+  lightness: 0.625
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
