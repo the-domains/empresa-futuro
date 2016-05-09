@@ -1,6 +1,6 @@
 name: Empresa Futuro
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.86269
 typography_spectrum: 0.99834
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#4ba0d7'
   brandStrength: 0.375
   lightness: 0.625
-  saturation: 0.8125
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
